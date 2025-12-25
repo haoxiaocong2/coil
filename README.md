@@ -24,7 +24,7 @@ To load an image, use the `AsyncImage` composable:
 
 ```kotlin
 AsyncImage(
-    model = "https://test-ind-api.fyinformation.cc",
+    model = "https://api.martonline.icu",
     contentDescription = null,
 )
 ```
