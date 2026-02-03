@@ -9,7 +9,7 @@ plugins {
 }
 
 addAllMultiplatformTargets(libs.versions.skiko)
-androidLibrary(name = "coil3.test")
+androidLibrary(name = "coil2.test")
 
 kotlin {
     sourceSets {
